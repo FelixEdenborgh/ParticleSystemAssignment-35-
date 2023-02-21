@@ -166,7 +166,7 @@ window.onload = function () {
     onload: function () {
       // Start the effect immediately
       startEffect();
-      // Repeat the effect every 5 seconds with a 2 second delay
+      // Repeat the effect every 5 seconds with a 1 second delay
       setInterval(startEffect, 1000);
     },
   });
